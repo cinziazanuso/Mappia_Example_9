@@ -130,13 +130,33 @@
 				<Styles></Styles>
 			</TileSet>
 			<CustomLayer>
+				<Name>GH:prova</Name>
+				<Title>prova</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
 				<Name>GH:tr_10_anni</Name>
 				<Title>tr_10_anni</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 			<CustomLayer>
-				<Name>GH:prova</Name>
-				<Title>prova</Title>
+				<Name>GH:tr_20_anni</Name>
+				<Title>tr_20_anni</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:tr_30_anni</Name>
+				<Title>tr_30_anni</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:tr_50_anni</Name>
+				<Title>tr_50_anni</Title>
+				<Operation type="csv">1</Operation>
+			</CustomLayer>
+			<CustomLayer>
+				<Name>GH:tr_100_anni</Name>
+				<Title>tr_100_anni</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
